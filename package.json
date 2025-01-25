@@ -3,16 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
     "start": "npm run start --prefix Backend"
-=======
-  "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-  "start": "npm start --prefix backend"
->>>>>>> c0fbfb7ee167eb581f700882e50f8546895cf930
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": ""
- }
+}
